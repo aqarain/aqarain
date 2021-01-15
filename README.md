@@ -10,7 +10,7 @@ A MERN Stack Engineer with four years of professional experience in JavaScript, 
 
 <br />
 
-### Summary of my Skills:
+## Summary of my Skills:
 
 **Title:** 				    Mid-level Front-end and Junior-level Back-end Developer
 **Languages:**			  JavaScript, TypeScript
@@ -21,13 +21,7 @@ A MERN Stack Engineer with four years of professional experience in JavaScript, 
 
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
-
-<br />
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="JS" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="TypeScript" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
@@ -40,5 +34,12 @@ A MERN Stack Engineer with four years of professional experience in JavaScript, 
 <img align="left" alt="Jest" width="26px" height="26px" src="https://jestjs.io/img/opengraph.png" />
 <img align="left" alt="Git" width="26px" height="26px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
 <img align="left" alt="Webpack" width="26px" height="26px" src="https://cdn.auth0.com/blog/webpack/logo.png" />
+
+<br /> 
+<br />
+
+## Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/aqarain
