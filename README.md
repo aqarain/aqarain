@@ -10,7 +10,7 @@ A MERN Stack Engineer with four years of professional experience in JavaScript, 
 <br />
 <br />
 ## Summary of my Skills:
-<br />**Title:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mid-level Front-end and Junior-level Back-end Developer
+**Title:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mid-level Front-end and Junior-level Back-end Developer
 <br />**Languages:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript
 <br />**Front-end Stack:**&nbsp;&nbsp;&nbsp;ReactJS, AngularJS, MobX, React Query, HTML/HTML5, CSS3/SCSS/Sass, Unit Testing (Jest)
 <br />**Front-end Libs:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Styled Components, Emotion library, React Highcharts, React Graph Vis, Ramda, Reactstrap, Storybook
