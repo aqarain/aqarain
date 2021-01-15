@@ -10,12 +10,12 @@ A MERN Stack Engineer with four years of professional experience in JavaScript, 
 <br />
 <br />
 ## Summary of my Skills:
-<br />**Title:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mid-level Front-end and Junior-level Back-end Developer
-<br />**Languages:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript
-<br />**Front-end Stack:**	ReactJS, AngularJS, MobX, React Query, HTML/HTML5, CSS3/SCSS/Sass, Unit Testing (Jest)
-<br />**Front-end Libs:**		Styled Components, Emotion library, React Highcharts, React Graph Vis, Ramda, Reactstrap, Storybook
-<br />**Back-end Stack:**		NodeJS, ExpressJS, MongoDB, Mongoose
-<br />**Deployment:**		    Version Controlling (Git, GitHub, Bitbucket), Webpack
+<br />**Title:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mid-level Front-end and Junior-level Back-end Developer
+<br />**Languages:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript
+<br />**Front-end Stack:**&nbsp;&nbsp;&nbsp;ReactJS, AngularJS, MobX, React Query, HTML/HTML5, CSS3/SCSS/Sass, Unit Testing (Jest)
+<br />**Front-end Libs:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Styled Components, Emotion library, React Highcharts, React Graph Vis, Ramda, Reactstrap, Storybook
+<br />**Back-end Stack:**&nbsp;&nbsp;&nbsp;&nbsp;NodeJS, ExpressJS, MongoDB, Mongoose
+<br />**Deployment:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Version Controlling (Git, GitHub, Bitbucket), Webpack
 <br />
 <br />
 <img align="left" alt="JS" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png" />
