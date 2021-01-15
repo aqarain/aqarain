@@ -5,6 +5,6 @@
 - ⚡ Fun fact: I love 🏀 and 🏓
 
 ### Connect with me:
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png | width=22)
+<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
 
 <br />
