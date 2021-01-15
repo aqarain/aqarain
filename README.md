@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Atif Qayyum
 
-- 🌱 I’m currently advanced React concepts and back-end development.
+- 🌱 I’m currently learning advanced React concepts and back-end development.
 - 🥅 2021 Goals: Become a Fullstack developer | Create more GitHub repos | Start contributing to open source projects
 - ⚡ Fun fact: I love 🏀 and 🏓
 
@@ -10,8 +10,8 @@ A MERN Stack Engineer with four years of professional experience in JavaScript, 
 <br />
 <br />
 ## Summary of my Skills:
-<br />**Title:** 				    Mid-level Front-end and Junior-level Back-end Developer
-<br />**Languages:**			  JavaScript, TypeScript
+<br />**Title:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mid-level Front-end and Junior-level Back-end Developer
+<br />**Languages:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript
 <br />**Front-end Stack:**	ReactJS, AngularJS, MobX, React Query, HTML/HTML5, CSS3/SCSS/Sass, Unit Testing (Jest)
 <br />**Front-end Libs:**		Styled Components, Emotion library, React Highcharts, React Graph Vis, Ramda, Reactstrap, Storybook
 <br />**Back-end Stack:**		NodeJS, ExpressJS, MongoDB, Mongoose
