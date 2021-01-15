@@ -17,11 +17,12 @@
 <img align="left" alt="ReactJS" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="MobX" width="26px" height="26px" src="https://mobx.js.org/img/mobx.png" />
 <img align="left" alt="HTML5" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
-<img align="left" alt="NodeJS" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
-<img align="left" alt="MongoDB" width="26px" height="26px" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" />
+<img align="left" alt="CSS" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="NodeJS" width="26px" height="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" />
+<img align="left" alt="MongoDB" width="26px" height="26px" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png" />
 <img align="left" alt="Jest" width="26px" height="26px" src="https://jestjs.io/img/opengraph.png" />
 <img align="left" alt="Git" width="26px" height="26px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
-<img align="left" alt="Webpack" width="26px" height="26px" src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" />
+<img align="left" alt="Webpack" width="26px" height="26px" src="https://cdn.auth0.com/blog/webpack/logo.png" />
 
 <br />
 <br />
