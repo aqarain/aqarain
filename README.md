@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Atif Qayyum
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Create more GitHub repos and start contributing to open source projects
+- 🌱 I’m currently advanced React concepts and back-end development.
+- 🥅 2021 Goals: Become a Fullstack developer | Create more GitHub repos | Start contributing to open source projects
 - ⚡ Fun fact: I love 🏀 and 🏓
 
 ## About me:
 
 A MERN Stack Engineer with four years of professional experience in JavaScript, TypeScript and front-end development. My main expertise are in JavaScript and ReactJS. I have successfully developed and delivered four ReactJS projects. I have almost two years of experience in React.js but I am fully in sync with the lately evolved ReactJS development. I have done a Udemy certification on Node.js development in Jan, 2021 and also developed three small projects using Node.js, Express.js and MongoDB/Mongoose which are available on my github account. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
+<br />
 <br />
 ## Summary of my Skills:
 <br />**Title:** 				    Mid-level Front-end and Junior-level Back-end Developer
