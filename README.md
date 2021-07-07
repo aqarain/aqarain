@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Atif Qayyum
 
-- 🌱 I’m currently learning advanced ReactJS concepts and back-end development.
+- 🌱 I’m currently learning advanced ReactJS concepts and unit testing ReactJS applications.
 - 🥅 2021 Goals: Become a Fullstack developer | Create more GitHub repos | Start contributing to open source projects
 - ⚡ Fun fact: I love 🏀 and 🏓
 
