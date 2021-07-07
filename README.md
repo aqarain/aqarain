@@ -12,7 +12,7 @@ A MERN Stack Engineer with 4.5 years of professional experience in JavaScript, T
 ## Summary of my Skills:
 **Title:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mid-level Front-end and Junior-level Back-end Developer
 <br />**Languages:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript
-<br />**Front-end Stack:**&nbsp;&nbsp;&nbsp;ReactJS, AngularJS, Redux (Redux Thunk, Redux Toolkit), MobX, React Query, HTML/HTML5, CSS3/SCSS/Sass, Unit Testing (Jest, React Testing Library)
+<br />**Front-end Stack:**&nbsp;&nbsp;&nbsp;ReactJS, AngularJS, Redux (Redux Thunk, Redux Toolkit), MobX, React Query, HTML/HTML5, CSS3/SCSS/Sass, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unit Testing (Jest, React Testing Library)
 <br />**Front-end Libs:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Styled Components, Emotion library, React Highcharts, React Graph Vis, Ramda, Reactstrap, Storybook, PropTypes
 <br />**Back-end Stack:**&nbsp;&nbsp;&nbsp;&nbsp;NodeJS, ExpressJS, MongoDB, Mongoose
 <br />**Deployment:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Version Controlling (Git, GitHub, Bitbucket, GitLab), Webpack
