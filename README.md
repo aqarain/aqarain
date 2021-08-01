@@ -61,8 +61,8 @@ A MERN Stack Engineer (Mid-level Front-end and Junior-level Back-end) with 4.5 y
 
 ### 👉 Unit Testing
 <p>
-<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-<img alt="React Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img alt="Jest" src="https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img alt="React Testing Library" src="https://img.shields.io/badge/react_testing_library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 </p>
 
 
