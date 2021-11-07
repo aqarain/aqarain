@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love 🏀 and 🏓
 
 
-### *There are a few React projects which are currently private here. If you are interested in how I code, please ping me on LinkedIn or my official email address (atifqayyumarain@hotmail.com) and I will provide access to you to those repositories. Thanks*
+### 🚨🙋🏼‍♂️ *There are a few React projects which are currently private here. If you are interested in how I code, please ping me on LinkedIn or my official email address (atifqayyumarain@hotmail.com) and I will provide access to you to those repositories. Thanks* 😊 
 
 ## About me:
 
