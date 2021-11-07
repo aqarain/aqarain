@@ -1,12 +1,15 @@
 # Hi there 👋, I'm Atif Qayyum
 
-- 🌱 I’m currently learning advanced ReactJS concepts and unit testing ReactJS applications.
-- 🥅 2021 Goals: Become a Fullstack developer | Create more GitHub repos | Start contributing to open source projects
+- 🌱 I’m currently learning advanced React concepts and automated testing.
+- 🥅 2021 Goals: Learn advanced React concepts | Front-end Security and Performance Optimizations | GraphQL | Automated Testing | Contribute to open source projects
 - ⚡ Fun fact: I love 🏀 and 🏓
+
+
+### *There are a few React projects which are currently private here. If you are interested in how I code, please ping me on LinkedIn or my official email address (atifqayyumarain@hotmail.com) and I will provide access to you to those repositories. Thanks*
 
 ## About me:
 
-A MERN Stack Engineer (Mid-level Front-end and Junior-level Back-end) with 4.5 years of professional experience in JavaScript, TypeScript and front-end development. My main expertise are in JavaScript and ReactJS. I have successfully developed and delivered four ReactJS projects. I have 2 years of experience in React.js but I am fully in sync with the lately evolved ReactJS development. I have hands-on experience with back-end technologies like NodeJS. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
+A Front-end engineer with more than 5 years of professional experience in JavaScript, TypeScript and front-end development. My main expertise are in JavaScript, TypeScript and React. I have successfully developed and delivered 6 React projects and currently working as a front-end lead at TkXel, Pakistan. I have almost 3 years of experience in React but I am fully in sync with the lately evolved React ecosystem. I have hands-on experience with back-end technologies like Node.js. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
 <br />
 <br />
 
