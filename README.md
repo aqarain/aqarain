@@ -28,6 +28,7 @@ A Front-end engineer with more than 5 years of professional experience in JavaSc
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Redux (Redux Thunk and Redux Toolkit)" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="MobX" src="https://img.shields.io/badge/mobx-%2335495e.svg?style=for-the-badge&logo=mobx&logoColor=%2361DAFB%22" />
+<img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23FF69B4.svg?style=for-the-badge&logo=graphql" />
 <img alt="React Router" src="https://img.shields.io/badge/react_router-gray.svg?style=for-the-badge&logo=react-router&logoColor=%2361DAFB%22" />
 <img alt="React Query" src="https://img.shields.io/badge/react_query-%2320232a.svg?style=for-the-badge"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
