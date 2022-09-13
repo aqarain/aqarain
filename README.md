@@ -1,19 +1,6 @@
 # Hi there 👋, I'm Atif Qayyum
 
-- 🌱 I’m currently learning server side rendering, React 18 and applications / use cases of different state management libraries.
-- 🎯 **2022 Goals:** React 18 | Next.js | Relay | Remix | Web 3.0 | Advanced Automated Testing | CI/CD | Contribute to open source projects | Speaker at JS/React Conferences
-
-- 🥅 **2021 Goals Overview:**
-
-  ✅ Advanced React concepts
-
-  ✅ Front-end Security and Performance Optimizations
-
-  ✅ GraphQL
-
-  ✅ Automated Testing
-
-  ❌ Contribute to open source projects
+- 🌱 I’m currently learning advanced React concepts
 
 - ⚡ **Fun fact:** I love 🏀 and 🏓
 
