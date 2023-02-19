@@ -9,7 +9,7 @@
 
 ## About me:
 
-A Front-end engineer with more than 5 years of professional experience in JavaScript, TypeScript and front-end development. My main expertise are in JavaScript, TypeScript and React. I have successfully developed and delivered 6 React projects and currently working as a front-end engineer at Momentive AI, Amsterdam. Having more than 3 years of experience in React, I am fully in sync with the lately evolved React ecosystem. I have hands-on experience with back-end technologies like Node.js. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
+A Front-end engineer with 6 years of professional experience in JavaScript, TypeScript and front-end development. My main expertise are in JavaScript, TypeScript and React. I have successfully developed and delivered 6 React projects and currently working as a front-end engineer at Momentive AI, Amsterdam. Having more than 3 years of experience in React, I am fully in sync with the lately evolved React ecosystem. I have hands-on experience with back-end technologies like Node.js. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
 <br />
 <br />
 
